@@ -4,3 +4,4 @@ and is focused on the question of whether or not patients show up for their appo
 The main purpose of this data analysis is to find what factors affect the no-shows.
 
 ![Proportion by waiting time and noshow rate](/Proportion_by_waiting_time.png)
+![Percentage of appointments for each waiting time group](/Proportion_for_time_group.png)
